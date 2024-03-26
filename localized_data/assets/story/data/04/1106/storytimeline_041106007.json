@@ -1,0 +1,266 @@
+{
+    "text_block_list": [
+        {
+            "name": "Uma Musume A",
+            "text": "Ah, a poster about the festival. And they've got fireworks too."
+        },
+        {
+            "name": "Uma Musume B",
+            "text": "There's a rumor that if you head in to the mountains from here, you can also find a place to see fireflies."
+        },
+        {
+            "name": "Uma Musume A",
+            "text": "I want to go but…… we're at training camp, so I want to concentrate on that. Even if training's over, I don't want to lose focus."
+        },
+        {
+            "name": "Uma Musume B",
+            "text": "Right. There's only a little time left at camp…… yeah, let's do our best!"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "…………"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "――And that's what happened. I want to go and have some fun but, everyone's working hard so it didn't feel right to ask them……",
+            "choice_data_list": [
+                "Then, should I go with you?"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "But, Trainer-san, aren't you really busy? Like, preparing for training, and how you're always with me――"
+        },
+        {
+            "text": "She felt apologetic so Hishi Miracle spoke in a small voice. I told her that she didn't need to hold back.",
+            "choice_data_list": [
+                "To think you'd be trying to be considerate……"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Wai- what do you mean by that!? Usually, I'm a considerate girl though!?",
+            "choice_data_list": [
+                "You were……!?",
+                "You were……!?"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Haaa. Whatever~. In that case, I won't hold back. I'll have Trainer-san accompany me.",
+            "choice_data_list": [
+                "Of course, gladly."
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Ah, but."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Well…… since we have the chance, rather than the festival…… just for today, do you want to try something special?"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Hmmmm~, they don't seem to be here, huh…… I guess the fireflies were just a rumor after all.",
+            "choice_data_list": [
+                "We probably shouldn't go much further"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "You're right. Sorry about that. I didn't even really know the location and brought you along."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "(I just wanted to show them scenery that was out of the ordinary…… Is this what happens when you do something you're not used to~?)"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Haaa, that's unfortunate. I thought it'd be a good way to show my gratitude.",
+            "choice_data_list": [
+                "Gratitude?"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Ah…… did I say that out loud?"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Uhh~~~……well, you see. It's just something that I've been thinking about for a while now."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "See, Trainer-san, when it comes to races…… you always have really high expectations for me, right?"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "And, I just want to live up to those expectations, you see. At least, that's what I've been thinking anyways……"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "But if it's just this, I really wonder if it matches up to Trainer-san's passion. That's what I've been thinking and it made me worry."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "At the very least, with this I could repay that favor a little bit…… is what I had hoped, but as you can see, things didn't work out.",
+            "choice_data_list": [
+                "I'm happy you feel that way"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Ahaha. Since it's Trainer-san, I figured you'd say that. For my part, I haven't been thinking too deeply about it."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "The next time there's an opportunity, let me repay the favor. It's fine if you don't think too deeply and just think of it as a simple thanks."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "(……But well, it is a bit unfortunate though.)"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "(With how vast the sky is, it kind of feels special after all. If it all ended with us seeing fireflies I would have felt better too)"
+        },
+        {
+            "text": "She didn't seem to be that depressed. ……But, it probably wasn't wrong to think she was a little disappointed."
+        },
+        {
+            "text": "She really didn't need to thank me. Just hearing that she was trying to respond to my expectations was more than enough.",
+            "choice_data_list": [
+                "Then, I wonder what I'll have you do!"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Eh?",
+            "choice_data_list": [
+                "Add more training time? Or maybe――"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "No no no! I said if there was another opportunity, didn't I!?"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Besides, would that even count as a thank you!? I'd do that anyways, if I needed to."
+        },
+        {
+            "text": "Hishi Miracle let out a small laugh. It seems like she understood that I was just joking."
+        },
+        {
+            "text": "――She really didn't need to match up to my passion. But, if she wants to run, and starts to want to win……"
+        },
+        {
+            "text": "If she wants to do her best to match those expectations, then naturally, I'll support her.",
+            "choice_data_list": [
+                "Wanna run all the way back to school?"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Wouldn't that mean you'd be coming with me, Trainer-san? I think it'd be rough, even with a bicycle though."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Geez, you're real quick to start fooling around. I did think we were having a serious conversation, you know~?",
+            "choice_data_list": [
+                "Yeah, I was really happy"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Hmm……",
+            "choice_data_list": [
+                "That you'd be that concerned……"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "I-I wouldn't say that……",
+            "choice_data_list": [
+                "Enough that you couldn't sleep……"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "C'mon! That's an exaggeration! I sleep at night just fine!!",
+            "choice_data_list": [
+                "Ahahaha"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Haa. Trainer-san you're not worried about this at all……the difference in passion. Doesn't it make me look like an idiot for worrying about it?"
+        },
+        {
+            "text": "After letting out a deep breath and relaxing, Hishi Miracle turned to me with a smile. Even if there is a difference, it's not a bad thing."
+        },
+        {
+            "text": "Compared to other trainers and their Uma Musume, it really was a little different. But, even then――",
+            "choice_data_list": [
+                "I think it's fun",
+                "I think it's fun"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "――――"
+        },
+        {
+            "text": "We can just do our best together. We don't need to be that concerned. It's fine, we can still move forward together."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "……That's…… yeah. You're right.",
+            "choice_data_list": [
+                "Let's try going a little further"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Eh? What's this all of a sudden? Wai- Trainer-san! It's way too dark over there――"
+        },
+        {
+            "text": "We only proceeded a little bit further. But when we did, while looking up through the trees――"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "Oh…… the stars, amazing…… they seem so close…… even though all we did was move to a different spot.",
+            "choice_data_list": [
+                "Probably because it's darker here"
+            ]
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "……If I was alone, I would have missed it. I wouldn't have been able to see well, and I'd be a little worried…… I don't think I would have made it here."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "I thought…… once again, just like normal, the day would end without seeing the fireflies or without anything special happening."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "…… But…… because of Trainer-san, I was able to experience something a little special."
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "……Could this mean that something similar could happen again?"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "……Let's try to keep things within reason, okay? I'm used to being 『Normal』, after all. ……Otherwise――"
+        },
+        {
+            "name": "Hishi Miracle",
+            "text": "――I might get so surprised that I end up crying."
+        },
+        {
+            "text": "She said keeping things within reason―― but, in those eyes was eagerness. In that case, I couldn't help but want to respond to that."
+        }
+    ]
+}

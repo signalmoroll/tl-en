@@ -4,6 +4,11 @@
   "zip_dir": "tl-en-main/localized_data",
   "files": [
     {
+      "path": "assets/atlas/home/home.png",
+      "hash": "9640ad81b7534b00e96582ee19d923894b85af1b6b22c07d4c2fef77591dee35",
+      "size": 957506
+    },
+    {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1004001.json",
       "hash": "2f1a26a894d6a048031febf372f98acf738bf9472904ad2e9e8717c43b8b1e06",
       "size": 551

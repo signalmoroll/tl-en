@@ -4,6 +4,11 @@
   "zip_dir": "tl-en-main/localized_data",
   "files": [
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.png",
+      "hash": "62477e9e6fb691e4c2a05eb9aae1bccee10d1415c7bf22e35a9e70ca2859e529",
+      "size": 392006
+    },
+    {
       "path": "assets/atlas/home/home.png",
       "hash": "9640ad81b7534b00e96582ee19d923894b85af1b6b22c07d4c2fef77591dee35",
       "size": 957506

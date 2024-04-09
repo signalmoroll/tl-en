@@ -14,6 +14,11 @@
       "size": 957506
     },
     {
+      "path": "assets/atlas/single/single.png",
+      "hash": "8e41c104fb2e5d61a09c0f64212d3dc6aa18e0c5e574887918a3aac334298798",
+      "size": 782052
+    },
+    {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1004001.json",
       "hash": "2f1a26a894d6a048031febf372f98acf738bf9472904ad2e9e8717c43b8b1e06",
       "size": 551
@@ -4275,8 +4280,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "d8e4f99affd7252cc4a0ebd1c8904cd86e4ad8a67f3e3362c5b22c63a3fca480",
-      "size": 35490
+      "hash": "216508cb625a378b858f1e8b8f1c74652dd67b1472edbc7208fdb185be207126",
+      "size": 35678
     },
     {
       "path": "race_jikkyo_comment_dict.json",

@@ -40,7 +40,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Haa, haa, haah……!"
+            "text": "<i>Haa, haa, haah……! </i>"
         },
         {
             "name": "Commentator",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "(Haa, hah, haa―! Wide stride, wide swings, control the distance behind ― aagh……!)"
+            "text": "(<i>Haa, hah, haa―!</i> Wide stride, wide swings, control the distance behind ― aagh……!)"
         },
         {
             "name": "Ines Fujin",
@@ -111,7 +111,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Hah……ghah, haaah! ……haah…… pheeew…… ……Yeah, it still…… feels good…… heh."
+            "text": "<i>Hah…… ghah, haaah! ……haah…… pheeew…… </i> …… Yeah, it still…… feels good…… heh."
         },
         {
             "name": "Ines' Little Sisters",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "―Girls! Hwuuh… did you see? What'd you think of your big sis, huh!?"
+            "text": "― Girls! <i>Hwuuh</i>… did you see? What'd you think of your big sis, huh!?"
         },
         {
             "name": "Ines' Twin Sister A",
@@ -135,11 +135,11 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "(……! This scene…… mom and everyone running up to me, crying and laughing. It's just like that day―)"
+            "text": "(……! This scene…… mom and everyone running up to me, crying and laughing. It's just like that day ―)"
         },
         {
             "name": "Event Commentator",
-            "text": "First place goes to Ines Fujin! On her last race for the club, she set down a splendid result to take home the honors!"
+            "text": "First place goes to Ines Fujin! On her last race for the club's junior high division, she set down a splendid result to take home the honors!"
         },
         {
             "name": "Ines' Twin Sister A",
@@ -151,15 +151,15 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "(Back then, it was them as well. Putting the sparkle in my races, giving me that push in the back, and so, that's why, I―)"
+            "text": "(Back then, it was them as well. Putting the sparkle in my races, giving me that push in the back, and so, that's why, I ―)"
         },
         {
             "name": "Ines Fujin",
-            "text": "………… ……I'm sorry, mom. I―"
+            "text": "………… …… I'm sorry, mom. I ―"
         },
         {
             "name": "Ines Fujin",
-            "text": "I'll take a part-time job and send lots of money back home. I'll come home often to help out. But I… I want to go to Tracen Academy……!"
+            "text": "I'll take a part-time job and send lots of money back home. I'll come back often to help out. But I… I want to go to Tracen Academy……!"
         },
         {
             "name": "Ines Fujin",
@@ -179,18 +179,18 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Trainer, I won! Mom wanted to give you her thanks? or something—"
+            "text": "Trainer, I won! Oh, and mom wanted to give you her thanks? or something—"
         },
         {
             "name": "Ines' Mother",
-            "text": "This is the result of your guidance. Thank you very much. Please keep up the good work, trainer.",
+            "text": "This is the result of your guidance. Thank you very much. Please keep up the good work, Trainer.",
             "choice_data_list": [
                 "No, I'm……",
                 "No, I'm……"
             ]
         },
         {
-            "text": "\"I'm only training her temporarily\""
+            "text": "\"I'm only training her temporarily\", I thought. Ines Fujin stopped me before I could say it out loud."
         },
         {
             "name": "Ines Fujin",
@@ -235,10 +235,10 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "It really made me happy. I'm looking forward to our time together!… I'll let you watch me run until your head's going in circles ♪ Hehe."
+            "text": "It really made me happy. I'm looking forward to our time together! …I'll let you watch me run until your head's going in circles♪ Hehe."
         },
         {
-            "text": "Her smile was radiant and full of hope. For sure, the person reflected in her round eyes had grown—",
+            "text": "Her smile was radiant and full of hope. For sure, the person reflected in her round eyes had grown —",
             "choice_data_list": [
                 "(I finally became a trainer)"
             ]

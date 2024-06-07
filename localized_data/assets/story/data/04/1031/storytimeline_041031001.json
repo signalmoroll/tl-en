@@ -27,11 +27,11 @@
         },
         {
             "name": "Trainer Colleague",
-            "text": "Two \"regular\", please."
+            "text": "Two <i>regular</i>, please."
         },
         {
             "name": "Ines Fujin",
-            "text": "Thanks! Two \"regular\" for this table!"
+            "text": "Thanks! Two <i>regular</i> for this table!"
         },
         {
             "text": "A few days later, I was visiting a nearby ramen place with a fellow trainer."
@@ -64,14 +64,14 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Heeey, hold uuup! You forgot your phone～!"
+            "text": "Heeey, hold uuup～～～! You forgot your phone～!"
         },
         {
             "text": "The waiter girl came running and handed me…… A familiar looking smartphone."
         },
         {
             "name": "Ines Fujin",
-            "text": "Haah, I'm glad I caught up with you… Maaan. You should be more careful with this, it's full of personal information!",
+            "text": "Haah, I'm glad I caught up with you… Maaan, you should be more careful with this, it's full of personal information!",
             "choice_data_list": [
                 "I- I'm sorry!"
             ]
@@ -84,7 +84,7 @@
             "text": "Wanting to thank her properly, I rushed after her and—"
         },
         {
-            "text": "(BONK)",
+            "text": "(<i>BONK</i>)",
             "choice_data_list": [
                 "Oww!?"
             ]
@@ -108,18 +108,18 @@
             "text": "Man… oh, man…… Pfft, pfahaha! Come on, first your phone and now this. How clumsy can you be! Aha, ahaha……!"
         },
         {
-            "text": "Ines Fujin couldn't stop laughing for a bit… But then extended her right hand to me. And—"
+            "text": "Ines Fujin couldn't stop laughing for a bit… But then extended her right hand to me —"
         },
         {
             "name": "Ines Fujin",
-            "text": "―Haaaaah…… Think you can stand up?"
+            "text": "― Haaaaah…… Think you can stand up?"
         },
         {
             "text": "She gently pulled me to my feet. One day some time later, our paths would cross again at an unexpected place."
         },
         {
             "name": "Ines Fujin",
-            "text": "Ha, haah, haa……"
+            "text": "<i>Ha, haah, haa…… </i>"
         },
         {
             "text": "Ines Fujin was leading the pack in a mock race. Already at the final corner, the horsegirls in the back were making their moves!"
@@ -142,7 +142,7 @@
             "text": "So her back seemed to scream from the turf. With such ferocity, I could almost hear it."
         },
         {
-            "text": "―My eyes were glued to her. I wanted to see her future up close, I wanted to scout her as soon as possible and stepped forwards. But—",
+            "text": "― My eyes were glued to her. I wanted to see her future up close, I wanted to scout her as soon as possible and stepped forwards. But —",
             "choice_data_list": [
                 "(Should I really scout her?)",
                 "(Should I really scout her?)"

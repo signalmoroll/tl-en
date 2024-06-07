@@ -581,7 +581,8 @@
     },
     "1029": {
         "11": "Cygames",
-        "12": "Uma Musume, Pretty Derby!"
+        "12": "Uma Musume, Pretty Derby!",
+        "1203": "Hawaa…!"
     },
     "1030": {
         "11": "Cygames",
@@ -875,6 +876,7 @@
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140008": "Fufu",
+        "140009": "Ehehe～…",
         "140012": "Well……!"
     },
     "1040": {
@@ -1069,7 +1071,8 @@
         "140017": "Aww―…",
         "140018": "Sniff…",
         "400005": "Leave the making of sweets to me! I shall be exemplary in all that I do! … Ha! It smells like something's burning!?",
-        "400007": "With the pride of the class president residing in my heart, I shall challenge the competition! …? Why are you looking at me like that?"
+        "400007": "With the pride of the class president residing in my heart, I shall challenge the competition! …? Why are you looking at me like that?",
+        "910100": "Fufuu―n… Would you like to challenge the honorable class president!?"
     },
     "1042": {
         "11": "Cygames",
@@ -1779,6 +1782,8 @@
         "410001": "I'm so happy!!!",
         "410002": "Yay!",
         "410003": "Yay!",
+        "410004": "Ehehe～…",
+        "410005": "Ehehe～…",
         "920000": "Eeeeeeeeee!"
     },
     "1053": {
@@ -2361,6 +2366,7 @@
         "80000": "good work",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
+        "90221": "Happy Valentine's Day",
         "140008": "Fufu"
     },
     "1062": {
@@ -2447,6 +2453,7 @@
         "1133": "Even if it's destined to shatter―",
         "1134": "Yay, yay!",
         "1144": "My Pride!",
+        "1182": "Of course, sister...!",
         "2030": "Please!",
         "2031": "Together, with all our hearts.",
         "2032": "Thank you for your guidance.",
@@ -2633,7 +2640,10 @@
         "20046": "Let's go.",
         "80000": "Good work.",
         "140004": "I did it!",
-        "140007": "I did it!"
+        "140007": "I did it!",
+        "410001": "We did it!",
+        "410002": "good",
+        "410003": "good"
     },
     "1074": {
         "11": "Cygames",
@@ -2673,6 +2683,18 @@
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!",
         "140008": "Phew."
+    },
+    "1082": {
+        "11": "Cygames",
+        "12": "Uma Musume, Pretty Derby!",
+        "1001": "Done♪",
+        "20041": "Begin.",
+        "140003": "Well done♪",
+        "140004": "Oooh, that's good!",
+        "140006": "Well done♪",
+        "140007": "Oooh, that's good!",
+        "140009": "Phew.",
+        "140014": "Ah…"
     },
     "1083": {
         "11": "Cygames",
@@ -2730,6 +2752,8 @@
         "1001": "Yay!",
         "140001": "Yes!",
         "140014": "Uh…",
+        "410000": "I'm coming!",
+        "410001": "We did it♪",
         "920000": "I'm coming!"
     },
     "1093": {
@@ -2929,6 +2953,13 @@
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!"
     },
+    "1102": {
+        "11": "Cygames",
+        "12": "Uma Musume, Pretty Derby!",
+        "80000": "that's enough for today",
+        "140008": "Phew.",
+        "140015": "Hmm."
+    },
     "1104": {
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!"
@@ -2955,6 +2986,11 @@
         "140001": "Okay…!",
         "140018": "Oh…"
     },
+    "1109": {
+        "11": "Cygames",
+        "12": "Uma Musume, Pretty Derby!",
+        "140001": "I did it!"
+    },
     "9001": {
         "200004": "Photo Studio lets you take photos of your horsegirls♪",
         "200005": "In the Photo Library you can look through all the photos you've taken so far♪",
@@ -2966,6 +3002,6 @@
         "230001": "You will get rewards as your index level goes up. Keep up the good work!",
         "230002": "Congratulations. Your index level has increased!",
         "230003": "Oh, what can I do for you today?",
-        "250001": "Pieces can be converted. The\nclovers obtained by conversion\ncan be used to buy items."
+        "250001": "Pieces can be converted. The clovers obtained by conversion can be used to buy items."
     }
 }

@@ -1,7 +1,7 @@
 {
     "text_block_list": [
         {
-            "text": "My interim contract with Ines Fujin had started. I wanted to make the most of this chance. Of course—",
+            "text": "My interim contract with Ines Fujin had started. I wanted to make the most of this chance. Of course —",
             "choice_data_list": [
                 "(I can't make this about me.)"
             ]
@@ -41,41 +41,41 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "……I see, okay! I wonder which one I should go with then～ Let me find something you'd have a hard time with～♪"
+            "text": "…… I see, okay! I wonder which one I should go with then～ Let me find something you'd have a hard time with～♪"
         },
         {
             "text": "That pretty much set the tone for my training with Ines Fujin."
         },
         {
             "name": "Ines Fujin",
-            "text": "Haaa, my whole body is feeling it. But bring it on! I haven't had enough yet!"
+            "text": "<i>Haaa</i>, my whole body is feeling it. But bring it on! I haven't had enough yet!"
         },
         {
             "name": "Ines Fujin",
-            "text": "Haah, haaa…… Aaaaah― I need…… a moment!"
+            "text": "<i>Haah, haaa……</i> <i>Aaaaah</i>. I need…… a moment!"
         },
         {
             "name": "Ines Fujin",
-            "text": "Gheeeh…… Haaah…… Pheeeew……"
+            "text": "<i>Gheeeh…… Haaah…… Pheeeew…… </i>"
         },
         {
             "name": "Ines Fujin",
-            "text": "Aaaah…… Can't stand up anymore…… ……Haha, feels good though—"
+            "text": "<i>Aaaah……</i> Can't stand up anymore…… …… Haha, feels good though —"
         },
         {
             "text": "Having her choose from my regimens, supporting and analyzing her as she goes through them. We continued that pattern for a number of days."
         },
         {
             "name": "Ines Fujin",
-            "text": "Really?! You figured out what kinda runner I am?! Tell me, tell me～!"
+            "text": "Really?! You figured out what escape strat fits me?! Tell me, tell me～!"
         },
         {
-            "text": "I'd come to a conclusion after watching her for a few days now. The girl just likes to \"run\". With no care to races, or training, or sanity."
+            "text": "I'd come to a conclusion after watching her for a few days now. The girl just likes to <i>run</i>. With no care to races, or training, or sanity."
         },
         {
-            "text": "She will run until she flat-out collapses. She can. And that's not something anyone can. So—",
+            "text": "She will run until she flat-out collapses. She can. And that's not something anyone can. So —",
             "choice_data_list": [
-                "Let's try to make it a battle of attrition."
+                "You can try a battle of attrition."
             ]
         },
         {
@@ -93,7 +93,7 @@
             "text": "Keep on running, never giving up my lead, no matter what… Yeah, I know I can do that. So… I can win!"
         },
         {
-            "text": "More time passed, and on our important last day for final adjustments—"
+            "text": "More time passed, and on our important last day for final adjustments —"
         },
         {
             "name": "Ines Fujin",
@@ -107,7 +107,7 @@
             "text": "There are plenty of indoor training facilities at Tracen Academy. If they are free, we should be able to work on a few things there."
         },
         {
-            "text": "With that glimmer of hope, we made our way to the indoor gym and pool, but—"
+            "text": "With that glimmer of hope, we made our way to the indoor gym and pool, but —"
         },
         {
             "name": "Ines Fujin",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "……Trainer. Let Miss Ines teach you a magic phrase."
+            "text": "…… Trainer. Let Miss Ines teach you a magic phrase."
         },
         {
             "name": "Ines Fujin",
@@ -137,7 +137,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Have a try too, recite the words in your mind. I promise it will calm you down!"
+            "text": "Have a try too, recite the words in your mind. I promise it'll calm you down!"
         },
         {
             "text": "Contrary to her playful words, her eyes were staring straight into mine. It finally sank in that she must have been quite worried about me.",
@@ -168,11 +168,11 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Oh, I did love running. I ran in a club team since elementary. But I was going to end that after junior high too."
+            "text": "Oh, I did love running. I ran in a club team since elementary. But I was going to quit that after junior high too."
         },
         {
             "name": "Ines Fujin",
-            "text": "So, you know… I knew I could get into Tracen for high school, but I wasn't planning to――"
+            "text": "So, you know… I knew I could still get into Tracen from senior high too, but I wasn't planning to ――"
         },
         {
             "name": "Ines Fujin",
@@ -184,11 +184,11 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Ahh! Think of something else! I'll get used to not running anymore after a few months!"
+            "text": "Aaahh! Think of something else! I'll get used to not running anymore after a few months!"
         },
         {
             "name": "Ines Fujin",
-            "text": "That's when mom handed me a thick bundle of papers. I looked through it and… it was an application for admission to Tracen Academy High School."
+            "text": "That's when mom handed me a thick bundle of papers. I looked through it and… it was an application for admission to Tracen Academy Senior High."
         },
         {
             "name": "Ines' Mom",
@@ -200,7 +200,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Those words pushed me to face my feelings. I was able to ask myself, \"Don't you really still want to run?\"—"
+            "text": "Those words pushed me to face my feelings. I was able to ask myself, \"Don't you really still want to run?\" —"
         },
         {
             "name": "Ines Fujin",
@@ -220,7 +220,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "―My family's coming to watch, so you know. I thought it'd be a good chance to show them \"hey, I'm doing my best\" and growing at this academy."
+            "text": "― My family's coming to watch, so you know. I thought it'd be a good chance to show them \"hey, I'm doing my best and growing at this academy\"."
         },
         {
             "text": "She spoke pretty casually… But I could tell how important her family was to her.",

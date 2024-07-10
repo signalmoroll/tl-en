@@ -1353,7 +1353,7 @@
     "SingleMode0223": "$(plural {0} '$ turn' '$ turns') until the next goal!\nYou can do it!",
     "SingleMode0228": "Skills Bought",
     "SingleMode0229": "Skills have been bought.",
-    "SingleMode0230": "You have one or more skills \nselected for purchase.\nAre you sure you want to go back?",
+    "SingleMode0230": "You have one or more skills selected.\nAre you sure you want to go back?",
     "SingleMode0235": "Gather {0} fans",
     "SingleMode0237": "Early",
     "SingleMode0238": "Late",

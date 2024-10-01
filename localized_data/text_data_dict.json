@@ -649,7 +649,9 @@
         "104702": "[Inlaid Stories] Zenno Rob Roy",
         "110502": "[Like “ZEER”] Neo Universe",
         "111001": "[Future Weaver] Cesario",
-        "112101": "[Chevalier Fidèle] Durandal"
+        "112101": "[Chevalier Fidèle] Durandal",
+        "102403": "[Rockin'☆MewMeow] Mayano Top Gun",
+        "104202": "[Be​♪​Witched] Seeking the Pearl"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -835,7 +837,9 @@
         "104702": "[Inlaid Stories]",
         "110502": "[Like “ZEER”]",
         "111001": "[Future Weaver]",
-        "112101": "[Chevalier Fidèle]"
+        "112101": "[Chevalier Fidèle]",
+        "102403": "[Rockin'☆MewMeow]",
+        "104202": "[Be​♪​Witched]"
     },
     "6": {
         "1001": "Special Week",
@@ -5747,7 +5751,9 @@
         "690025": "Finale Race - Dirt",
         "702701": "Practice Match",
         "1202101": "Sprinters Stakes (HARD)",
-        "1202102": "Sprinters Stakes (HARD)"
+        "1202102": "Sprinters Stakes (HARD)",
+        "1202201": "Kikka Sho (HARD)",
+        "1202202": "Kikka Sho (HARD)"
     },
     "29": {
         "100101": "February S",
@@ -7886,7 +7892,9 @@
         "690023": "Finale Race - Medium",
         "690024": "Finale Race - Long",
         "690025": "Finale Race - Dirt",
-        "702701": "Practice Match"
+        "702701": "Practice Match",
+        "1202201": "Kikka Sho (HARD)",
+        "1202202": "Kikka Sho (HARD)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9460,7 +9468,8 @@
         "18012": "Tenno Sho (Spring)",
         "18013": "Champions Cup",
         "7027": "Practice Match",
-        "12021": "Sprinters S"
+        "12021": "Sprinters S",
+        "12022": "Kikka Sho"
     },
     "33": {
         "1001": "February Stakes",
@@ -10231,7 +10240,8 @@
         "15070": "Special Race",
         "15071": "Special Race",
         "15072": "Special Race",
-        "12021": "Legend Race"
+        "12021": "Legend Race",
+        "12022": "Legend Race"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -10506,7 +10516,8 @@
         "1201502": "VS Seiun Sky",
         "1201602": "VS TM Opera O",
         "1201902": "VS Gold Ship",
-        "1202102": "VS Curren Chan"
+        "1202102": "VS Curren Chan",
+        "1202201": "VS Rice Shower"
     },
     "38": {
         "1001": "February S",
@@ -12260,7 +12271,16 @@
         "111001111": "Be as Bedrock",
         "111001211": "Beautiful Transformation",
         "111601111": "Step Aside",
-        "111601221": "A Lady's Domain"
+        "111601221": "A Lady's Domain",
+        "110421": "Oh!bento-magic☆",
+        "120241": "HOP STEP♪LOCK ON!",
+        "300151": "Oppressive Cage",
+        "300161": "Binding Fog",
+        "910421": "Oh!bento-magic☆",
+        "920241": "HOP STEP♪LOCK ON!",
+        "1000017": "Carnival Bonus",
+        "112101111": "Faithful Veillantif",
+        "112101211": "Olifant's Roar"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -12981,8 +13001,8 @@
         "202802": "During the second half of the Opening Leg, your speed will slightly increase.",
         "202811": "Runner・Long・If you have enough stamina left in the first half of the Final Leg, you will get a speed boost.",
         "202812": "Runner・Long・If you have enough stamina left in the first half of the Final Leg, you will get a small speed boost.",
-        "202821": "Runner・Long・If you're in the front during any last spurt straight, your acceleration will increase.",
-        "202822": "Runner・Long・If you're in the front during any last spurt straight, your acceleration will slightly increase.",
+        "202821": "Runner・Long・If you're 3rd or better during any last spurt straight, your acceleration will increase.",
+        "202822": "Runner・Long・If you're 3rd or better during any last spurt straight, your acceleration will slightly increase.",
         "202831": "Dirt・If you activate any other skill during the Middle Leg, your speed will increase; then, if you activate any other skill during the Final Leg or beyond, you will get a speed boost.",
         "202832": "Dirt・If you activate any other skill during the Middle Leg, your speed will marginally increase; then, if you activate any other skill during the Final Leg or beyond, you will get a marginal speed boost.",
         "202842": "Dirt・At a random point during the Middle Leg, if you're in the first half of the pack, your stamina will slightly recover.",
@@ -13478,7 +13498,7 @@
         "110701111": "Runner・If you're in the lead at a random point during the Middle Leg, your speed will greatly increase.",
         "110701211": "If you've activated at least 3 skills during the Middle Leg and you're currently in the lead, your speed will greatly increase.",
         "110801111": "During a random Middle Leg corner, your speed will increase.",
-        "110801211": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg (or the Final Corner of the Nakayama Racecourse), your acceleration will increase; then, during the Last Straight, your speed will slightly increase.",
+        "110801211": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg (or a Final Leg corner of the Nakayama Racecourse), your acceleration will increase; then, during the Last Straight, your speed will slightly increase.",
         "110901111": "Mile・If you're in the first half of the pack during the second half of the Middle Leg, your speed will greatly increase.",
         "110901211": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase.",
         "111901111": "Your Speed and Power stats are increased by 80 on clockwise tracks.",
@@ -13707,7 +13727,23 @@
         "111001111": "Medium・If you're in a good position on the Final Straight during the Final Leg, your speed will increase.",
         "111001211": "Medium・During the second half of the Opening Leg, your speed will slightly decrease; then, during the first half of the Final Leg, your speed will tremendously increase.",
         "112101111": "Chaser・At a random point during the second half of the Middle Leg, use a little extra stamina to tremendously increase your speed.",
-        "112101211": "Short/Mile・If you're about to overtake someone during the Final Leg, your acceleration will increase; if you're currently on the Final Corner, it will increase greatly."
+        "112101211": "Short/Mile・If you're about to overtake someone during the Final Leg, your acceleration will increase; if you're currently on the Final Corner, it will increase greatly.",
+        "110421": "If you try to overtake someone in the first half of the pack during the second half of the race, you will get a speed boost; (Short/Mile only) then, if you overtake someone during the Final Corner, your speed will slightly increase.",
+        "120241": "During the Middle Leg or later, if you're either in the first place, or second/third and trying to overtake, you will get a speed boost and your stamina will greatly recover.",
+        "203201": "Runner・If you're in the first half of the pack at a random point during the Middle Leg, your speed will slightly increase.",
+        "203202": "Runner・If you're in the first half of the pack at a random point during the Middle Leg, your speed will marginally increase.",
+        "203212": "Runner・Long・If you're 3rd or better during the Final Straight, you will get a slight speed boost; the effect is stronger if your motivation is Good or better.",
+        "203221": "Leader・At a random point during the Middle Leg, use a little extra stamina to increase your speed greatly.",
+        "203222": "Leader・At a random point during the Middle Leg, use a little extra stamina to increase your speed.",
+        "203232": "Leader・At a random point during the second half of the Opening Leg, your speed will slightly increase.",
+        "1000017": "Your stats will be raised by x％ and there is a y％ chance for your motivation to be raised to Perfect during carnival races. This skill will disappear at the end of the event.",
+        "102102221": "If you overtake someone during the Middle Leg, your speed will increase.",
+        "102403111": "Runner・Long・If you're 3rd or better during any last spurt straight, your acceleration will increase; if you're in the first place, use a little extra stamina to double the effect duration.",
+        "102403211": "Runner・If you're in the first half of the pack at a random point during the Middle Leg, your speed will slightly increase; then, on the Last Straight, you will get a slight speed boost.",
+        "104202111": "Short/Mile・At a random point during any Final Leg straight, your acceleration will increase and your speed will slightly increase; in Tokyo, this skill will always trigger in the first half of the Final Leg.",
+        "104202211": "Short/Mile・During a random Middle Leg corner, your speed will slightly increase; when this skill triggers during the Final Corner, your speed will increase greatly instead.",
+        "104802221": "Betweener・Medium・If you're in the middle of the pack at a random point during the first half of the Final Leg, your speed will increase greatly; the effect is even stronger in Tokyo.",
+        "107102121": "Leader・At a random point during the first half of the Middle Leg, your speed will increase and your stamina will recover."
     },
     "49": {
         "1": "50 Jewels",
@@ -16802,7 +16838,8 @@
         "507104": "Reach a total Fight genre level of 6000 or higher.",
         "507105": "Reach a total Free genre level of 6000 or higher.",
         "720012": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
-        "310138": "Clear all event limited missions."
+        "310138": "Clear all event limited missions.",
+        "310139": "Clear all event limited missions."
     },
     "67": {
         "100000": "Win any race once during training.",
@@ -23267,7 +23304,30 @@
         "1002093": "Get at least 3rd in the Shion Stakes once during training.",
         "1002094": "Get at least 3rd in the Rose Stakes once during training.",
         "1002095": "Win the Shuuka Sho once during training.",
-        "1002096": "Clear all event missions."
+        "1002096": "Clear all event missions.",
+        "341076": "Raise the affection rank of Sakura Laurel to rank 11.",
+        "341082": "Raise the affection rank of Sirius Symboli to rank 11.",
+        "342076": "Raise the affection rank of Sakura Laurel to rank 12.",
+        "342082": "Raise the affection rank of Sirius Symboli to rank 12.",
+        "601306": "全国興行を100回完了しよう.",
+        "601410": "メインストーリー第2部中編第13話を見よう.",
+        "601458": "メインストーリー第2部中編第4Rでレースに勝利しよう.",
+        "1002090": "Clear all event missions.",
+        "1002097": "Finish a training run having completed all training objectives once.",
+        "1002098": "Finish a training run having completed all training objectives 2 times.",
+        "1002099": "Win the Cluster Cup once during training.",
+        "1002100": "Win the Mile Championship Nambu Hai once during training.",
+        "1002101": "Clear all event missions.",
+        "1002102": "Finish a training run having completed all training objectives once.",
+        "1002103": "Finish a training run having completed all training objectives 2 times.",
+        "1002104": "Get at least 3rd in the St. Lite Kinen once during training.",
+        "1002105": "Get at least 3rd in the Kobe Shimbun Hai once during training.",
+        "1002106": "Win the Kikka Sho once during training.",
+        "1002107": "Clear all event missions.",
+        "2600121": "Do 2 training runs ('A Patchwork's Farewell' story event).",
+        "2600122": "Do 4 training runs ('A Patchwork's Farewell' story event).",
+        "2600123": "Do 7 training runs ('A Patchwork's Farewell' story event).",
+        "2600124": "Do 10 training runs ('A Patchwork's Farewell' story event)."
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -24668,7 +24728,10 @@
         "30218": "[Sunshine Under the Moon] Taiki Shuttle",
         "30219": "[Something troubling you, Pony-chan?] Fuji Kiseki",
         "30220": "[Rewarding Job] Symboli Kris S",
-        "30222": "[KNOCK 'EM DOWN!] Espoir City"
+        "30222": "[KNOCK 'EM DOWN!] Espoir City",
+        "30223": "[Chewing up the Refrain] Hishi Amazon",
+        "30224": "[Roar of Apoyando] Narita Brian",
+        "30225": "[Making a Power Trio] Matikanefukukitaru"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -25082,7 +25145,10 @@
         "30218": "[Sunshine Under the Moon]",
         "30219": "[Something troubling you, Pony-chan?]",
         "30220": "[Rewarding Job]",
-        "30222": "[KNOCK 'EM DOWN!]"
+        "30222": "[KNOCK 'EM DOWN!]",
+        "30223": "[Chewing up the Refrain]",
+        "30224": "[Roar of Apoyando]",
+        "30225": "[Making a Power Trio]"
     },
     "77": {
         "10001": "Special Week",
@@ -25496,7 +25562,10 @@
         "30218": "Taiki Shuttle",
         "30219": "Fuji Kiseki",
         "30220": "Symboli Kris S",
-        "30222": "Espoir City"
+        "30222": "Espoir City",
+        "30223": "Hishi Amazon",
+        "30224": "Narita Brian",
+        "30225": "Matikanefukukitaru"
     },
     "78": {
         "10001": "Special Week",
@@ -25910,7 +25979,10 @@
         "30218": "Taiki Shuttle",
         "30219": "Fuji Kiseki",
         "30220": "Symboli Kris S",
-        "30222": "Espoir City"
+        "30222": "Espoir City",
+        "30223": "Hishi Amazon",
+        "30224": "Narita Brian",
+        "30225": "Matikanefukukitaru"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I want to become a nice, sisterly horse girl so that everyone can rely on me...!",
@@ -27045,7 +27117,9 @@
         "104702": "Zenno Rob Roy Piece",
         "110502": "Neo Universe Piece",
         "111001": "Cesario Piece",
-        "112101": "Durandal Piece"
+        "112101": "Durandal Piece",
+        "102403": "Mayano Top Gun Piece",
+        "104202": "Seeking the Pearl Piece"
     },
     "114": {
         "100000": "A piece of the selected horsegirl.\\nCan be used to obtain or develop their talents.",
@@ -28262,7 +28336,7 @@
         "9042": "A deep love for horsegirls hides behind her military strictness.",
         "9043": "A leader who continues to challenge the world and pursue her dreams.",
         "9044": "A talented producer aiming for the peak of entertainment.",
-        "1081": "\"Beat me if you can!\" A rebellious girl who loves to complain.",
+        "1081": "\"Beat me if you can!\" A rebellious girl who loves to bicker.",
         "1110": "A strict warrior and holy mother. An Umamusume with two sides.",
         "1121": "Pay heed! The devoted sacred sword with dazzling footwork."
     },
@@ -29945,7 +30019,14 @@
         "11160103": "Rose Conquest",
         "11210101": "Lame de Vent",
         "11210102": "Lame de Vent",
-        "11210103": "Lame de Vent"
+        "11210103": "Lame de Vent",
+        "4000107": "Carnival Bonus",
+        "10240301": "HOP STEP♪LOCK ON!",
+        "10240302": "HOP STEP♪LOCK ON!",
+        "10240303": "HOP STEP♪LOCK ON!",
+        "10420201": "Oh!bento-magic☆",
+        "10420202": "Oh!bento-magic☆",
+        "10420203": "Oh!bento-magic☆"
     },
     "148": {
         "1": "Ace Bonus",
@@ -30628,7 +30709,10 @@
         "9044": "September 30",
         "1081": "April 22",
         "1110": "March 31",
-        "1121": "May 25"
+        "1121": "May 25",
+        "9040": "February 24日(AIが三女神の名を名乗った日",
+        "9041": "February 24日(AIが三女神の名を名乗った日",
+        "9042": "February 24日(AIが三女神の名を名乗った日"
     },
     "159": {
         "1001": "Betweener",
@@ -33396,7 +33480,26 @@
         "11100103": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Guiding Sea] skill hint.",
         "11210101": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
         "11210102": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
-        "11210103": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint."
+        "11210103": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
+        "2032001": "Obtain [目にも留まらず] skill hint.",
+        "2032002": "Obtain [目にも留まらず] skill hint.",
+        "2032003": "Obtain [目にも留まらず] skill hint.",
+        "2032101": "Obtain [気の向くままに] skill hint.",
+        "2032102": "Obtain [気の向くままに] skill hint.",
+        "2032103": "Obtain [気の向くままに] skill hint.",
+        "2032201": "Obtain [アグレッシブ] skill hint.",
+        "2032202": "Obtain [アグレッシブ] skill hint.",
+        "2032203": "Obtain [アグレッシブ] skill hint.",
+        "2032301": "Obtain [逸る足取り] skill hint.",
+        "2032302": "Obtain [逸る足取り] skill hint.",
+        "2032303": "Obtain [逸る足取り] skill hint.",
+        "4000107": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
+        "10240301": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
+        "10240302": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
+        "10240303": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
+        "10420201": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
+        "10420202": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
+        "10420203": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",

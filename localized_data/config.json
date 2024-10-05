@@ -22,6 +22,7 @@
     "text_frame_line_spacing_multiplier": 0.8,
     "text_frame_font_size_multiplier": 0.9,
     "skill_list_item_desc_font_size_multiplier": 0.9,
+    "now_loading_comic_title_ellipsis": true,
 
     "remove_ruby": true,
     "character_note_top_gallery_button": {

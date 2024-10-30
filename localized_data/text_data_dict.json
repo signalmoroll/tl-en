@@ -40927,6 +40927,26 @@
     "337": {
         "6": "I'll help you swap one of the sport \\ntraining genres into another one!"
     },
+    "338": {
+        "1001": "Speed Research \\nChip",
+        "1002": "Stamina Research \\nChip",
+        "1003": "Power Research \\nChip",
+        "1004": "Guts Research \\nChip",
+        "1005": "Wit Research \\nChip",
+        "1006": "Skill Hint \\nChip",
+        "1007": "Specialty Up \\nChip",
+        "1008": "Friendship \\nChip",
+        "1009": "Skill Pt \\nChip",
+        "2000": "Basic Effect",
+        "2001": "Head Core",
+        "2002": "Chest Core",
+        "2003": "Leg Core"
+    },
+    "342": {
+        "1": "Head",
+        "2": "Chest",
+        "3": "Legs"
+    },
     "346": {
         "2": "$(scale 80)After 1st Tasting Party",
         "3": "$(scale 80)After 3rd Tasting Party"

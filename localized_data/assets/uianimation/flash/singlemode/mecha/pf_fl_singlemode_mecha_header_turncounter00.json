@@ -39,7 +39,7 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "UGE\nafter turn"
+                        "text": "Upgrade Exam\nafter turn"
                     }
                 }
             },
@@ -69,7 +69,7 @@
             "17": {
                 "text_param_list": {
                     "0": {
-                        "text": "Upgrade Exam:"
+                        "text": "Upgrade Exam"
                     }
                 }
             }

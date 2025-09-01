@@ -1,13 +1,13 @@
 {
     "1001": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140009": "Ehehe～…",
         "140013": "Wow!"
     },
     "1002": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20043": "Ugh…",
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
@@ -16,7 +16,7 @@
     },
     "1003": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "2032": "Thanks, trainer!",
         "2034": "I'm going to win anyway, so maybe I'll think of a line to say on the podium right now～♪",
         "2035": "Thanks, trainer!",
@@ -33,7 +33,7 @@
         "20025": "I'm going to win anyway, so maybe I'll think of a line to say on the podium right now～♪",
         "20050": "Thanks, trainer!",
         "70001": "Keep up the good work, Trainer! For the legend of the invincible Teio, you're absolutely necessary!",
-        "80000": "that's enough for today",
+        "80000": "Good work.",
         "90003": "Hey, have you seen Kaichou? Aw, I was thinking of having lunch with her today!",
         "90004": "Trainer, good job! Hmmm, you worked hard for me again today～♪",
         "90005": "Trainer's also out at this hour? I haven't done enough exercise yet, so I was just hanging around～.",
@@ -62,25 +62,26 @@
     },
     "1004": {
         "11": "Cygames",
-        "80000": "that's enough for today",
+        "80000": "Good work.",
         "90020": "Happy Valentine's Day!",
         "90021": "Happy Valentine's Day!",
+        "90221": "Happy Valentine's Day!",
         "140001": "Yes!",
         "140015": "Fufu"
     },
     "1005": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1008": "Come on, guys, let's go!",
         "2031": "Come on, guys, let's go!",
         "20046": "Let's go!",
-        "80000": "that's enough for today",
+        "80000": "Good work.",
         "140008": "chuckling"
     },
     "1006": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
-        "80000": "that's enough for today",
+        "12": "Umamusume: Pretty Derby!",
+        "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140012": "Okay…!",
@@ -89,18 +90,18 @@
     },
     "1007": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1008": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day"
     },
     "1009": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
@@ -113,7 +114,7 @@
     },
     "1010": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1011": {
         "12": "Umamusume Pretty Derby♪",
@@ -206,14 +207,14 @@
     },
     "1012": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20046": "Let's go!",
         "410004": "Ha ha!",
         "410005": "Ha ha!"
     },
     "1013": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "Splendid work!",
         "20040": "Let's go!",
         "20046": "Let's go.",
@@ -223,14 +224,14 @@
     },
     "1014": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20046": "Let's go!",
         "140008": "Ehehee～"
     },
     "1015": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
-        "80000": "that's enough for today",
+        "12": "Umamusume: Pretty Derby!",
+        "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140008": "Fufu",
@@ -239,7 +240,7 @@
     },
     "1016": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "90020": "Happy…… Valentine's Day",
         "90021": "Happy…… Valentine's Day",
         "140002": "Kuh…",
@@ -248,7 +249,7 @@
     "1017": {
         "11": "Cygames",
         "20041": "I understand.",
-        "80000": "that's enough for today",
+        "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140008": "Fufu",
@@ -258,7 +259,7 @@
     },
     "1018": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
@@ -270,7 +271,7 @@
     },
     "1019": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20046": "Let's go!"
     },
     "1020": {
@@ -281,11 +282,11 @@
     },
     "1021": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1022": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Here's today's login bonus～♪",
         "15": "It look like it's going to be this one for tomorrow～",
         "1000": "Shall we go.",
@@ -527,18 +528,18 @@
     },
     "1023": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20040": "Okay…!",
         "20041": "Hmhmhmm…",
         "20043": "Oh no…",
         "80000": "good work",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
+        "90221": "Happy Valentine's Day",
         "140008": "Fufu",
         "140014": "Much: ……",
         "410004": "Fufu",
-        "410005": "Fufu",
-        "90221": "Happy Valentine's Day"
+        "410005": "Fufu"
     },
     "1024": {
         "20040": "I'm coming!",
@@ -550,7 +551,7 @@
     },
     "1025": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
         "140009": "Fufu",
         "140017": "Much: ……",
@@ -560,7 +561,7 @@
     },
     "1026": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
@@ -570,7 +571,7 @@
     },
     "1027": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20046": "Let's go!",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
@@ -579,18 +580,18 @@
     },
     "1028": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20039": "I'm so excited～♪",
         "23015": "I'm so excited～♪"
     },
     "1029": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1203": "Hawaa…!"
     },
     "1030": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "90221": "Happy Valentine's Day",
@@ -599,16 +600,20 @@
     },
     "1031": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1032": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
-        "80000": "that's enough for today"
+        "12": "Umamusume: Pretty Derby!",
+        "80000": "Good work.",
+        "900000": "Ah, I'm glad you made it!\nRight then, let's start with\nthe experiments!",
+        "900001": "Splendid! This time we've\nachieved an incredible amount\ndata from research results!",
+        "900002": "It was quite a meaningful \nexperience! I shall be counting\non your cooperation again!",
+        "900003": "Did you find my research\nreport helpful?"
     },
     "1033": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "Let's begin.",
         "20039": "I understand.",
         "23015": "Let's begin.",
@@ -620,20 +625,20 @@
     },
     "1034": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Good work."
     },
     "1035": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1036": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1037": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Here is today's login bonus.",
         "15": "We will be getting this one tomorrow.",
         "1000": "Ladies and gentlemen, it's time.",
@@ -724,6 +729,7 @@
         "30005": "Objective achieved… good run.",
         "30006": "As per your winning recipe… it turned out delicious.",
         "30007": "Objective achieved… good run.",
+        "30207": "Objective achieved… good run.",
         "31000": "Auf geht's!",
         "40000": "Now is the time for fulfillment!",
         "40001": "Not a single step to victory… Now is the time for fulfillment!",
@@ -778,6 +784,7 @@
         "90019": "Basically, most sweets are made to cool down the heat, but if you eat them, your heart will be warmed… it's a strange thing, isn't it?",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
+        "90221": "Happy Valentine's Day",
         "91000": "I was humming along to the metronome when Ms. Falcon came up behind me… I was so surprised that I just screamed…",
         "91001": "I think Ms. Jordan may be a master at managing her schedule to keep up with that many friendships without strain.",
         "91002": "Your attitude toward competition is the opposite of mine, but I think that's why I have something to learn from you.",
@@ -795,7 +802,7 @@
         "91014": "Autumn is the season for sports, isn't it? Then I would like to play soccer. If you don't mind, I'd like to play with you.",
         "91015": "Snow reminds me of Stollen… I used to help make them every Christmas.",
         "91016": "Ms. Falcon, she can tell what candy I made by the smell of my clothes. It's kind of embarrassing…",
-        "91017": "Whenever I make a new product, Bakushin O always shows up and tastes it. It's very helpful… but where in the world did she come from…?",
+        "91017": "Whenever I make a new product, Bakushin O always shows up to taste it. It's very helpful… but where in the world did she come from…?",
         "91018": "Lately I've been swapping homemade cakes with Ms. Flower. It tastes so tender… and so comforting.",
         "91019": "I believe that both racing and patissier work are equally challenging in terms of everything you have achieved.",
         "91020": "It is the pastry chef's job to color special occasions such as birthdays. Then I will… I will color the race with my running.",
@@ -803,7 +810,7 @@
         "91022": "Whether it's an after-dinner dessert or a snack… even if it's the same snack, we need to rearrange the timing and the content.",
         "91023": "Konditor… It could be said that a pastry chef's day begins at night. We have to prepare for tomorrow's event.",
         "91024": "In the season of cherry blossom viewing, it would be nice to make a stollen with the image of cherry blossoms instead of snow.",
-        "91025": "Summer is the best time to travel in Germany. If we have the opportunity, we will show you around. Let us help you make your schedule.",
+        "91025": "Summer is the best time to travel in Germany. We'd love to show you around and are happy to help you with your schedule.",
         "91026": "I would love to go out to pick chestnuts… I just came up with a recipe for a delicious looking Mont Blanc.",
         "91027": "Valentine's Day, Christmas… When the time comes for sweets to be served, we are all in a state of excitement.",
         "91028": "A craftsman is essentially a title given after rigorous training. I would like to keep in mind the importance of this costume.",
@@ -866,13 +873,11 @@
         "400009": "Respect for Tressen Academy, here.",
         "400011": "Although the result was disappointing, I would like to report to my parents that it was a valuable experience… \"Next time for sure\", right?",
         "400012": "The event mission is here. Due to the variety of missions, detailed planning is recommended.",
-        "400013": "Here is your reward. Don't forget.",
-        "30207": "Objective achieved… good run.",
-        "90221": "Happy Valentine's Day"
+        "400013": "Here is your reward. Don't forget."
     },
     "1038": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "Yay♪",
         "140001": "Yay♪",
         "140009": "Fufu",
@@ -880,7 +885,7 @@
     },
     "1039": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20041": "Hmhmhmm…",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
@@ -898,7 +903,7 @@
     },
     "1041": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Here's today's Login Bonus!",
         "15": "Oooh! Is this tomorrow's…!?",
         "1000": "I'll keep on being the class presideeent!",
@@ -1086,34 +1091,34 @@
     },
     "1042": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "good work"
     },
     "1043": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140008": "Hmm?"
     },
     "1044": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "good work",
         "140001": "Yes!",
         "140008": "Phew."
     },
     "1045": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20041": "Hmhmhmm…",
         "920000": "I'll do my best~"
     },
     "1046": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1047": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Um, here are the login bonuses.",
         "15": "Looks like this one will be given away tomorrow.",
         "1000": "Let's go…!",
@@ -1205,6 +1210,7 @@
         "30003": "I don't want to end up playing a minor role…!",
         "30004": "Here and now, the legend is written…!",
         "30005": "I'm so happy for you. …Heh heh.",
+        "30007": "I'm so happy for you. …Heh heh.",
         "31000": "I'm off…!",
         "40000": "Open the way…!",
         "40001": "I can be a hero, too! If I keep going, if I keep believing… then one day…!",
@@ -1240,6 +1246,7 @@
         "90008": "Well, the reading season is upon us! I have plenty of book recommendations, so give me a shout anytime…!",
         "90009": "I long to sit by the fireplace, listening to the sound of wood and reading a book while it snows…… I admire that kind of thing… ♪",
         "90020": "Happy Valentine's Day ……!",
+        "90021": "Happy Valentine's Day ……!",
         "91000": "Cafe-san is amazing…! I tell them what the book is about and they tell me the coffee that goes with it!",
         "91001": "Speak little and show with power I admire Kris S-san… I can't help but follow her with my eyes…",
         "91002": "I've had more opportunities to talk with Ayabe-san since I introduced her to my book on stars. …She really like star doesn't she?",
@@ -1300,24 +1307,22 @@
         "400011": "A request to the \"Stone of Dreams\"… Yes! May the next villagers have a wonderful trip…!",
         "400012": "The event mission is here! Is this a strategy book…? Was it in the library…?",
         "400013": "Did you forget to pick it up? Even if it's not obvious, don't forget…!",
-        "400028": "This is surely a hidden challenge to the readers… What should I do if I am the only one who has noticed…!",
-        "30007": "I'm so happy for you. …Heh heh.",
-        "90021": "Happy Valentine's Day ……!"
+        "400028": "This is surely a hidden challenge to the readers… What should I do if I am the only one who has noticed…!"
     },
     "1048": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140008": "Fufu"
     },
     "1049": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1050": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Hey, it's the login bonus.",
         "15": "Hmmm, it looks like this one is for tomorrow.",
         "1000": "Hmm, I'd better get going.",
@@ -1552,7 +1557,7 @@
     },
     "1051": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1000": "Let's go!",
         "2030": "Let's go!",
         "20043": "Ugh…",
@@ -1563,7 +1568,7 @@
     },
     "1052": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Yes! They said it's a log-in bonus!",
         "15": "Wow!!! You're getting this tomorrow!",
         "1000": "I'm coming!",
@@ -1803,20 +1808,20 @@
     },
     "1053": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1054": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1055": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "920000": "I'm coming!"
     },
     "1056": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "Understood!",
         "80000": "Good work.",
         "140008": "chuckling",
@@ -1827,14 +1832,14 @@
     },
     "1057": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "She said it's today's login bonus.",
         "140008": "Hmm?",
         "920000": "Let's go!"
     },
     "1058": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Here's today's login bonus.",
         "15": "Um, tomorrow… this way…",
         "1000": "Please!",
@@ -2081,7 +2086,7 @@
     },
     "1059": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "She said it's today's login bonus.",
         "15": "So tomorrow, you get this.",
         "1000": "Come on, guys, let's go!",
@@ -2223,7 +2228,7 @@
         "71017": "Where are you going next? We have to make plans, don't we?",
         "71018": "……～!",
         "71019": "I will run just like my ideal……!",
-        "80000": "that's enough for today",
+        "80000": "Good work.",
         "81000": "You want to race with me? … Okay, got it. I'll do my best!",
         "81001": "Great… but I can still do it! I won't let you down!",
         "90000": "Good morning. …What? I just said hello. Don't stare so much.",
@@ -2369,7 +2374,7 @@
     },
     "1060": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "90221": "Happy Valentine's Day",
@@ -2379,7 +2384,7 @@
     },
     "1061": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20042": "Kuh…",
         "80000": "good work",
         "90020": "Happy Valentine's Day",
@@ -2389,17 +2394,18 @@
     },
     "1062": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1135": "Yay, yay!",
         "20046": "Let's go!",
-        "80000": "that's enough for today",
+        "80000": "Good work.",
         "140008": "Phew."
     },
     "1063": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "Let's begin.",
         "23015": "Let's begin.",
+        "80000": "Good work.",
         "140002": "Oh…",
         "140003": "Splendid work!",
         "140006": "Splendid work!",
@@ -2407,17 +2413,17 @@
     },
     "1064": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1007": "High score update!",
         "140008": "Phew."
     },
     "1065": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1066": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20051": "Follow Turbo!",
         "70000": "Turbo wants to run a bunch, lemme run!",
         "95005": "Pfheh! Leave it to Turbo!",
@@ -2427,7 +2433,7 @@
     },
     "1067": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "We did it!",
         "20039": "Let's go!",
         "140001": "I did it!",
@@ -2437,13 +2443,13 @@
     },
     "1068": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140012": "Amazing!",
         "140017": "Aah!"
     },
     "1069": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1000": "Let's go!",
         "2030": "Let's go!",
         "20046": "Let's go!",
@@ -2452,12 +2458,12 @@
     },
     "1070": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140002": "Oh…"
     },
     "1071": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "It's today's login bonus.",
         "15": "Tomorrow is here. I'm looking forward to it.",
         "1000": "Please!",
@@ -2655,7 +2661,7 @@
     },
     "1072": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20039": "Please!",
         "20046": "Let's go.",
         "80000": "Good work.",
@@ -2667,7 +2673,7 @@
     },
     "1074": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140009": "Phew.",
         "140014": "Oh no…",
         "410001": "I've done it~♪",
@@ -2676,7 +2682,7 @@
     },
     "1076": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "We did it♪",
         "20046": "Let's go!",
         "80000": "Thanks for your time.",
@@ -2684,14 +2690,14 @@
     },
     "1077": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "I did it!",
         "140001": "I did it!",
         "140009": "Phew."
     },
     "1078": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "Let's begin.",
         "23015": "Let's begin.",
         "80000": "Thanks for your time.",
@@ -2700,14 +2706,17 @@
         "140014": "Oh my…",
         "140017": "Oh…"
     },
+    "1079": {
+        "80000": "Good work."
+    },
     "1080": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140008": "Phew."
     },
     "1082": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "Done♪",
         "20041": "Begin.",
         "140003": "Well done♪",
@@ -2719,25 +2728,27 @@
     },
     "1083": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
-        "20042": "Kuh…"
+        "12": "Umamusume: Pretty Derby!",
+        "20042": "Kuh…",
+        "80000": "Good work."
     },
     "1084": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1085": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "I shall go",
         "20039": "Begin.",
         "20046": "Let's go.",
         "23015": "Begin.",
+        "80000": "Good work.",
         "140008": "Yes."
     },
     "1086": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1000": "Let's go.",
         "2030": "Let's go.",
         "20039": "Let's begin.",
@@ -2756,12 +2767,13 @@
     },
     "1088": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
+        "80000": "Good work.",
         "140018": "Oh no…"
     },
     "1089": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20041": "Well…",
         "20047": "Whoa…!",
         "80000": "Thanks for your time.",
@@ -2772,7 +2784,7 @@
     },
     "1091": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "1001": "Yay!",
         "140001": "Yes!",
         "140014": "Uh…",
@@ -2782,24 +2794,25 @@
     },
     "1093": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "Yes.",
+        "80000": "Good work.",
         "140009": "Phew.",
         "140017": "Ah…"
     },
     "1094": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1098": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20038": "Let's go!",
         "140011": "Yay!"
     },
     "1099": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "13": "Tadaa! Today's login bonus☆!",
         "15": "Tomorrow, you'll get this one.",
         "1000": "We will not lose!",
@@ -2888,6 +2901,7 @@
         "30003": "I can't face everyone back home…!",
         "30004": "I offer to my hometown, the glory of my victory!",
         "30005": "Thanks for the support! I'm Tarumae, the star of Tomakomai☆.",
+        "30007": "Thanks for the support! I'm Tarumae, the star of Tomakomai☆.",
         "31000": "Make a run for it!",
         "40000": "Let's go together, TOMAKOMAI!",
         "40001": "Do you know that town? Tomakomai! Tomakomai is overflowing with deliciousness! So many great places, let's go! Tomakomai!",
@@ -2924,6 +2938,7 @@
         "90008": "Salmon, hokke, hokki-gai… and so much more. So many things to push one's appetite in the fall, it's hard to keep track!",
         "90009": "It's that time of year again. I will appeal Tomakomai with my ice dancing skills that I have honed in my hometown!",
         "90020": "Happy Valentine's Day…!",
+        "90021": "Happy Valentine's Day…!",
         "91000": "We've asked Ms. Flash to evaluate our prototype haskap sweets. We aim for a taste recognized by the artisans!",
         "91001": "Falco-san winked at me the moment our eyes met at the concert… I was so thrilled. I was so impressed.",
         "91002": "The daikon pickles made by Acute are delicious. Next time we have tea, I'll bring some of Tomakomai's famous sweets!",
@@ -2976,70 +2991,120 @@
         "140015": "So…",
         "140016": "Let's go!",
         "140017": "Aaah!",
-        "140018": "Moo.",
-        "30007": "Thanks for the support! I'm Tarumae, the star of Tomakomai☆.",
-        "90021": "Happy Valentine's Day…!"
+        "140018": "Moo."
     },
     "1100": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1102": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
-        "80000": "that's enough for today",
+        "12": "Umamusume: Pretty Derby!",
+        "80000": "Good work.",
         "140008": "Phew.",
         "140015": "Hmm."
     },
     "1104": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1105": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20039": "Coming.",
         "140008": "Phew.",
         "140009": "Ah…"
     },
     "1106": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "80000": "Thanks for your time."
     },
     "1107": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!"
     },
     "1108": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140001": "Okay…!",
         "140018": "Oh…"
     },
     "1109": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "140001": "I did it!"
+    },
+    "1110": {
+        "80000": "Good work."
     },
     "1119": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
+        "12": "Umamusume: Pretty Derby!",
         "20039": "I shall go",
         "20046": "Let's go.",
         "80000": "Good work."
     },
+    "1120": {
+        "80000": "Good work."
+    },
+    "1121": {
+        "80000": "Good work."
+    },
+    "1124": {
+        "80000": "Good work."
+    },
     "9001": {
-        "200004": "Photo Studio lets you take photos of your Umamusume♪",
-        "200005": "In the Photo Library you can look through all the photos you've taken so far♪",
+        "2000": "Please select 3 Umamusume to register for the race.",
+        "2016": "Please select 3 Umamusume to register for the race.",
+        "23004": "Thank you. Please make good use of it. ♪",
+        "23005": "Classic Trainer! You've got an eye for quality. ♪",
+        "200004": "Photo Studio lets you take photos of your Umamusume. ♪",
+        "200005": "In the Photo Library, you can view all the photos you've taken so far. ♪",
         "200006": "Trainer! Have you found one you like?",
+        "210001": "In daily races, you can obtain enhancement items and other rewards.",
+        "210002": "Daily tickets are replenished at 5 AM every day.",
+        "210003": "In the Moonlight Sho, you can earn a lot of Money.",
+        "210004": "In the Jupiter Cup, you can earn a lot of Support Pt.",
         "220000": "Welcome. Please take your time.",
-        "220001": "A time-limited sale just started. Don't miss out♪",
-        "220008": "The 2nd anniversary shop has opened up! Please drop by♪",
+        "220001": "A time-limited sale just started. Don't miss out. ♪",
+        "220003": "Hehe, thanks for the exchange. ♪",
+        "220004": "I'm sorry, it looks like we're out of stock.",
+        "220005": "The 1st Anniversary Shop has opened up! Please drop by. ♪",
+        "220006": "It's the last day of the Anniversary Shop! Make sure you don't miss out on anything.",
+        "220007": "The Anniversary Shop has opened up! Please drop by. ♪",
+        "220008": "The 2nd anniversary shop has opened up! Please drop by. ♪",
+        "220009": "The 3rd Anniversary Shop has opened up! Please drop by. ♪",
+        "220010": "The 4th Anniversary Shop has opened up! Please drop by. ♪",
         "230000": "Let's update your past rating scores and raise your index level!",
         "230001": "You will get rewards as your index level goes up. Keep up the good work!",
         "230002": "Congratulations. Your index level has increased!",
         "230003": "Oh, what can I do for you today?",
-        "250001": "Pieces can be converted. The clovers obtained by conversion can be used to buy items."
+        "240001": "By joining a circle, you can\ninteract with other trainers\nand help each other raise\ntheir Umamusume!",
+        "250001": "Pieces can be converted.\nThe clovers obtained by\nconversion can be used to\nbuy items.",
+        "260000": "By transferring an Umamusume from the Hall of Fame to another team, you'll receive some rewards!",
+        "260001": "It seems that there's a special recruitment offer with unique conditions!",
+        "260002": "Looks like there are trainers who are looking for Hall of Fame Umamusume transfers!",
+        "260003": "Looks like there are no special transfer offers for the moment..."
+    },
+    "9002": {
+        "20051": "Strive! Let's go!",
+        "23014": "Let's do it!",
+        "70000": "Teamwork! Let's move forward together!",
+        "82000": "Exciting! \nWhich Legend Race are you challenging today?",
+        "82001": "Challenge! \nIn the Daily Legend Races,you can earn Pieces!",
+        "95005": "Support! Count with my strength!",
+        "95006": "Effort! Leave it to me!",
+        "141000": "Indeed! Resting is also necessary sometimes, so play to your heart's content!",
+        "141001": "Impressed! There's so many Umamusume plushies here!",
+        "141002": "Amazing! You managed to get so many plushies!",
+        "300000": "Attention! Here are the missions.",
+        "300001": "Achieved! Don’t forget to claim them!",
+        "300002": "Rare!\nLimited-time missions!",
+        "700000": "Challenging! Prove your trainer skills in these exams!",
+        "700001": "Attention! The Umamusume and Support Cards rankings may be useful for your future training!",
+        "700002": "Don't forget to exchange your Trial Coins!",
+        "910000": "Tough opponents!\nI'm looking forward to an exciting race!",
+        "920000": "Let's go!"
     }
 }

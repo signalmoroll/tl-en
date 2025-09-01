@@ -1,0 +1,19 @@
+{
+    "windows": {
+        "bundle_name": "UBK4PAN5YQRMKRHRD3A54QPLQTN7OTAM"
+    },
+    "android": {
+        "bundle_name": "KYSBCYY6JXGHR7W3SGATMFNNH4N4KQCC"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Fail"
+                    }
+                }
+            }
+        }
+    }
+}

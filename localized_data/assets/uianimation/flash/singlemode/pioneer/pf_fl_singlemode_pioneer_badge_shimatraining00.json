@@ -1,0 +1,19 @@
+{
+    "windows": {
+        "bundle_name": "OPPTY654N6JUNCB4RARBBEOFPH6J65BI"
+    },
+    "android": {
+        "bundle_name": "FZ7NVEXHFSPDWM3AM5MERUBZGH25NU3V"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "1": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Ready!"
+                    }
+                }
+            }
+        }
+    }
+}

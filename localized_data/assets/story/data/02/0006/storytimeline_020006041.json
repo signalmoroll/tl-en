@@ -1,6 +1,7 @@
 {
     "no_wrap": true,
     "text_block_list": [
+        {},
         {
             "text": "Fua～aaaah… Mornin'～",
             "name": "Seiun Sky"
@@ -70,7 +71,7 @@
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "Besides, the once-in-a-lifetime chance to run in the Classic \nraces is coming up! Just like President Rudolf, I want to shine \nas an Uma Musume on that big stage!",
+            "text": "Besides, the once-in-a-lifetime chance to run in the Classic \nraces is coming up! Just like President Rudolf, I want to shine \nas an Umamusume on that big stage!",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
@@ -210,11 +211,11 @@
             "name": "Commentator"
         },
         {
-            "text": "And so, the Uma Musume slowly make their way \nfrom the paddock, one step at a time, as if basking in the \nfeeling as they approach the course of this grand stage!",
+            "text": "And so, the Umamusume slowly make their way \nfrom the paddock, one step at a time, as if basking in the \nfeeling as they approach the course of this grand stage!",
             "name": "Commentator"
         },
         {
-            "text": "Among those called the \"Golden Generation\", which Uma Musume \nwill be the one to take hold of glory and claim victory?!",
+            "text": "Among those called the \"Golden Generation\", which Umamusume \nwill be the one to take hold of glory and claim victory?!",
             "name": "Commentator"
         },
         {
@@ -238,7 +239,7 @@
             "name": "Seiun Sky"
         },
         {
-            "text": "Now that I think about it, \"Japan's #1 Uma Musume\"― \nis the dream left to you by your Moms, wasn't it?",
+            "text": "Now that I think about it, \"Japan's #1 Umamusume\"― \nis the dream left to you by your Moms, wasn't it?",
             "name": "Seiun Sky"
         },
         {

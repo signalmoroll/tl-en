@@ -18,7 +18,7 @@
             "6": {
                 "text_param_list": {
                     "0": {
-                        "text": "Left"
+                        "text": "left"
                     }
                 }
             },
@@ -44,7 +44,7 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "SWBC race\nafter turn",
+                        "text": "SWBC Race\nafter turn",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -52,7 +52,7 @@
                         }
                     },
                     "1": {
-                        "text": "WBC race\nafter turn",
+                        "text": "WBC Race\nafter turn",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -60,7 +60,7 @@
                         }
                     },
                     "2": {
-                        "text": "GUR race\nafter turn",
+                        "text": "GUR Race\nafter turn",
                         "position_offset": {
                             "x": 0.02500000037252903,
                             "y": 1.0,
@@ -73,9 +73,9 @@
                 "text_param_list": {
                     "0": {
                         "position_offset": {
-                            "x": 8.0,
-                            "y": -0.02500000037252903,
-                            "z": 0.0
+                            "x": -7,
+                            "y": -0.025,
+                            "z": 0
                         }
                     }
                 }
@@ -83,7 +83,12 @@
             "16": {
                 "text_param_list": {
                     "0": {
-                        "text": "Left"
+                        "text": "turn(s)",
+                        "position_offset": {
+                            "x": -1.975,
+                            "y": 2,
+                            "z": 0
+                        }
                     }
                 }
             },

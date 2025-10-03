@@ -1,9 +1,9 @@
-name: Update EN TL index on dev repo
+name: Update Reko's EN TL index
 
 on:
   push:
     branches:
-      - 'dev'
+      - 'main'
     paths:
       - 'localized_data/**'
 

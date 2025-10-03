@@ -1,0 +1,40 @@
+name: Update EN TL index on dev repo
+
+on:
+  # test only
+  workflow_dispatch:
+  push:
+    branches:
+      - 'dev'
+    paths:
+      - 'localized_data/**'
+
+jobs:
+  update_index:
+    runs-on: ubuntu-latest
+    env:
+      UV_CACHE_DIR: /tmp/.uv-cache
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout latest changes
+        uses: actions/checkout@v4
+      - name: Install uv and Python
+        uses: astral-sh/setup-uv@v6
+        with:
+          python-version: 3.12
+          activate-environment: true
+          enable-cache: true
+          cache-dependency-glob: "**/requirements*.txt"
+      - name: Fetch updater dependencies
+        run: uv pip install -r requirements.txt
+      - name: Run index update script
+        run: uv run -s gen_index.py
+      - name: Commit new index file
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -am "[BOT] feature: update index for latest commit"
+      - name: Push new index file
+        uses: ad-m/github-push-action@master

@@ -1,8 +1,6 @@
 name: Update EN TL index on dev repo
 
 on:
-  # test only
-  workflow_dispatch:
   push:
     branches:
       - 'dev'
